@@ -5,5 +5,9 @@ namespace FriendLetter.Models
     public string Recipient { get; set; }
     public string Sender { get; set; }
 
+    public string Location1 { get; set; }
+
+    public string Gift { get; set; }
+
   }
 }
